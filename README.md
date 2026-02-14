@@ -62,5 +62,5 @@ The dataset contains transactional and business-level data, including:
 3. Connect your data source (if prompted)  
 4. Refresh the report  
 5. Explore insights using filters and visuals  
-
+6. screenshot of project https://github.com/urvashimangal24-rgb/Power-bi-dashboard/blob/main/Screenshot%202026-02-14%20224204.png
 
